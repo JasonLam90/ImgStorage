@@ -1,2 +1,2 @@
 # ImgStorage
-GitHub的图床
+GitHub的图床啊啊啊
